@@ -1,6 +1,6 @@
 # modules-java-17-problem-vsc
 
-To execute the code, open the terminal from 12.Modules and write
+To execute the code, open the terminal from modules-java-17-problem-vsc and write
 
 java -p mods -m zoo.animal.care/zoo.animal.care.medical.Diet
 
